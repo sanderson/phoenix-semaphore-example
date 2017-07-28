@@ -1,6 +1,6 @@
 # Sample Phoenix App Showing How to Use Nanobox with Semaphore
 
-This repo is a companion to the article, [Continuous Integration with Semaphore & Nanobox](https://content.nanobox.io/continuous-integration-with-semaphore-nanobox) showing how to use Nanobox in your Travis CI workflow.
+This repo is a companion to the article, [Continuous Integration with Semaphore & Nanobox](https://content.nanobox.io/semaphore-nanobox-continuous-integration-the-easy-way) showing how to use Nanobox in your Semaphore workflow.
 
 ## Nanobox
 [Nanobox](https://nanobox.io) is a "micro-platform" that builds and runs your app anywhere - your local machine, a CI server, or in production.
